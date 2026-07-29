@@ -1,0 +1,45 @@
+Added an index. The database can finally find itself.
+Normalized the schema until it forgot who it was.
+SELECT * FROM courage WHERE deadline < NOW();
+The migration ran cleanly. I do not trust it.
+Made the query fast enough to disappoint the caching layer.
+Foreign keys: now with more emotional baggage.
+Removed the N+1 query. It had a family.
+Backfilled the data and my afternoon.
+One tiny column rename, zero tiny consequences.
+The database is locked because it needs some alone time.
+Added a constraint, immediately met an exception.
+The table is in third normal form and first place in my heart.
+Optimized the query by asking it nicely.
+This commit contains several rows of regret.
+VACUUMed the database. Found three missing socks.
+Transaction committed. Morals rolled back.
+The ORM generated SQL with the confidence of a toddler holding a marker.
+Added an index named after the bug that hurt us.
+Schema changes are just plot twists with downtime.
+Made UUIDs less mysterious by calling them ids.
+The database said no. I added a retry loop.
+Deleted the test data. It was becoming sentient.
+WHERE clause now includes the thing we were looking for.
+Reduced query time from XNUM500,999Xms to “probably fine.”
+Fixed a race condition by making everyone wait their turn.
+This migration has no reverse. Like my career choices.
+Turned off strict mode. Turned on consequences.
+Added a composite index because one index felt lonely.
+The EXPLAIN plan was brutally honest.
+Changed NULL to NOT NULL. The void has been contained.
+Database first, questions later.
+Made the cache invalidation somebody else’s problem.
+Sharded the table and my confidence.
+Prepared statements are now prepared for anything.
+The join was inner, but the feelings were outer.
+Added a trigger. It knows what it did.
+No tables were harmed in this migration. Probably.
+Replaced magic strings with magic SQL.
+The query planner chose violence.
+Consistent reads for an inconsistent codebase.
+Fixed an off-by-one error in a LIMIT clause. There were XNUM1,2X victims.
+Poured one out for the dropped column.
+Database migration: now with a rollback plan and a prayer.
+Stop storing JSON in that column. I mean it this time.
+Added timestamps so we can prove this was always broken.

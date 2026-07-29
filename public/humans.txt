@@ -86,7 +86,7 @@ Name: Jonatha Daguerre (github:jonathadv)
 /* SITE */
 Last update: 2024-08-04
 Standards: HTML5, CSS3
-Software: Git, Python, Visual Studio Code
+Software: Git, TypeScript, Cloudflare Workers, Visual Studio Code
 
 /* SOURCE */
 Source: https://github.com/ngerakines/commitment

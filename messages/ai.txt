@@ -1,0 +1,45 @@
+Prompted it nicely. It hallucinated professionally.
+The model says this is correct. The model also thinks it is a toaster.
+Replaced intuition with a 4GB download.
+Fine-tuned the model until it started correcting my grammar.
+Added more context. The AI asked for less of me.
+This feature is powered by statistics and blind optimism.
+The neural net has entered its mysterious phase.
+Moved the bug into the embedding space where nobody can find it.
+LLM stands for “let’s log more.”
+The AI generated this commit message. I have regrets.
+Made the prompt longer than the specification.
+Added a system prompt with strong opinions about commas.
+The model is deterministic, except when it isn’t.
+Reduced hallucinations by lowering our expectations.
+Added guardrails. The robot brought a skateboard.
+Vector search now finds things that are emotionally adjacent.
+The chatbot is typing… into the abyss.
+AI-assisted, human-reviewed, coffee-approved.
+The inference endpoint is now inferencing harder.
+Token budget exceeded. Sentences have been evicted.
+RAG status: retrieved, augmented, genuinely confused.
+The model learned from the best. Unfortunately, that was us.
+Made it multimodal because single-modal seemed lonely.
+This prompt has been optimized by vibes.
+Added an eval. The AI got a gold star and no feedback.
+The assistant is helpful, harmless, and wildly confident.
+Embeddings: tiny numbers, enormous expectations.
+Taught the bot to say “I don’t know.” It negotiated.
+Swapped models. The personality regression is intentional.
+The agent has tools now. Hide the production credentials.
+Fine-tuning complete. The model now shares my bad habits.
+Temperature set to XNUM0,2X. Creativity remains ungoverned.
+Changed “AI” to “AI-powered” for XNUM20,100X% more synergy.
+The prompt injection was sanitized and lightly judged.
+No humans were replaced during this deployment. Yet.
+Added streaming so the uncertainty arrives sooner.
+The context window is full of things we meant to read.
+Asked the model for JSON. It wrote a sonnet.
+This classifier has strong feelings about bananas.
+The AI is now explainable in theory.
+Named the model after a constellation to make it sound expensive.
+Improved latency by thinking less deeply.
+The agent completed the task after XNUM2,9X retries and one pep talk.
+We put the intelligence in artificial. The rest is pending.
+Updated the prompt. Reality remains untested.

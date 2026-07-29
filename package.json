@@ -1,0 +1,20 @@
+{
+  "name": "commitment",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build:data": "node scripts/build-data.mjs",
+    "typegen": "WRANGLER_LOG=none wrangler types",
+    "predev": "npm run build:data",
+    "dev": "wrangler dev",
+    "predeploy": "npm run build:data",
+    "deploy": "wrangler deploy",
+    "precheck": "npm run build:data && npm run typegen",
+    "check": "tsc --noEmit && WRANGLER_LOG=none wrangler deploy --dry-run"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "wrangler": "^4.73.0"
+  }
+}

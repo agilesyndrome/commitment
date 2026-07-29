@@ -1,0 +1,8 @@
+node_modules/
+.wrangler/
+worker-configuration.d.ts
+
+# Local deployment credentials. Keep the documented template tracked.
+.env
+.env.*
+!.env.example
